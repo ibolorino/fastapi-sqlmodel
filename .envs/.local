@@ -1,0 +1,4 @@
+POSTGRES_USER=app_database
+POSTGRES_PASSWORD=app_database
+POSTGRES_DB=app_database
+POSTGRES_HOST=db
